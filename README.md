@@ -109,6 +109,13 @@ Options on the command line override the file.
 
 `spyview` is the terminal viewer for spy logs.
 
+![spyview showing the events of a run, with the selected request decoded](media/spyview.png)
+
+<pre>
+spy <a href="https://github.com/naviko/gett">gett</a> https://www.google.com
+spyview &lt;logfile&gt;
+</pre>
+
 View a log:
 
 ```
