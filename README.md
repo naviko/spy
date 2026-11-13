@@ -8,7 +8,14 @@ spy <executable> [args...]
 
 ## Download
 
-Get the latest version for macOS, Linux, or Windows from [Releases](https://github.com/naviko/spy/releases/latest).  Linux and Windows need additional testing. 
+With Homebrew:
+
+```
+brew install naviko/tap/spy        # the scanner
+brew install naviko/tap/spyview    # the log viewer
+```
+
+Or get the latest version for macOS, Linux, or Windows from [Releases](https://github.com/naviko/spy/releases/latest).  Linux and Windows need additional testing. 
 
 ## Features
 
