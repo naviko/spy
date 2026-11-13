@@ -1,4 +1,4 @@
-# spy
+# spy (beta)
 
 See what a program really does on your machine.
 
